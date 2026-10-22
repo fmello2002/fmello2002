@@ -20,5 +20,5 @@ JavaScript / .Net / C# / Asp.net / Programação Orientada a Objetos / Bancos Re
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fmello2002&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Meus Projetos
-[![ToDoListAPI](https://github-readme-stats.vercel.app/api/pin/?username=iyeskett&repo=ToDoListAPI&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
-[![projeto-app-delivery-asp.net](https://github-readme-stats.vercel.app/api/pin/?username=fmello2002&repo=projeto-app-delivery-asp.net&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
+[![ToDoListAPI](https://github-readme-stats.vercel.app/api/pin/?username=fmello2002&repo=ToDoListAPI&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fmello2002/ToDoListAPI)
+[![projeto-app-delivery-asp.net](https://github-readme-stats.vercel.app/api/pin/?username=fmello2002&repo=projeto-app-delivery-asp.net&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fmello2002/projeto-app-delivery-asp.net)
